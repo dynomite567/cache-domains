@@ -103,24 +103,9 @@
 			"domain_files": ["teso.txt"]
 		},
 		{
-			"name": "warframe",
-			"description": "CDN for Warframe",
-			"domain_files": ["warframe.txt"]
-		},
-		{
 			"name": "wargaming",
 			"description": "CDN for wargaming.net",
 			"domain_files": ["wargaming.net.txt"]
-		},
-		{
-			"name": "wsus",
-			"description": "CDN for windows updates",
-			"domain_files": ["windowsupdates.txt"]
-		},
-		{
-			"name": "xboxlive",
-			"description": "CDN for xboxlive",
-			"domain_files": ["xboxlive.txt"]
 		}
 	]
 }
